@@ -191,378 +191,99 @@
       3347.0,
       3347.0
    ],
-   "ModelWeights": [
-      [
-         "Adj Close",
-         177730.3125
-      ],
-      [
-         "Adj Close Percent",
-         0.028641078621149063
-      ],
-      [
-         "DayOfWeek",
-         305.3984680175781
-      ],
-      [
-         "jpx_4689.T_2021-09-15_2023-09-15_Close_percent",
-         2795.4375
-      ],
-      [
-         "jpx_6201.T_2021-09-15_2023-09-15_Close_percent",
-         305.1227722167969
-      ],
-      [
-         "jpx_6594.T_2021-09-15_2023-09-15_Close_percent",
-         592.063232421875
-      ],
-      [
-         "jpx_6902.T_2021-09-15_2023-09-15_Close_percent",
-         615.5785522460938
-      ],
-      [
-         "jpx_8604.T_2021-09-15_2023-09-15_Close_percent",
-         606.0764770507812
-      ],
-      [
-         "jpx_9984.T_2021-09-15_2023-09-15_Close_percent",
-         766.15087890625
-      ],
-      [
-         "momentum_ao",
-         1507.8994140625
-      ],
-      [
-         "momentum_kama",
-         6781.05712890625
-      ],
-      [
-         "momentum_ppo",
-         11.848554611206055
-      ],
-      [
-         "momentum_ppo_hist",
-         2843.70556640625
-      ],
-      [
-         "momentum_ppo_signal",
-         0.3644556701183319
-      ],
-      [
-         "momentum_pvo",
-         4156.3955078125
-      ],
-      [
-         "momentum_pvo_hist",
-         1716.8602294921875
-      ],
-      [
-         "momentum_pvo_signal",
-         999.8223876953125
-      ],
-      [
-         "momentum_roc",
-         982.2421875
-      ],
-      [
-         "momentum_rsi",
-         2719.99365234375
-      ],
-      [
-         "momentum_stoch",
-         1327.6239013671875
-      ],
-      [
-         "momentum_stoch_rsi",
-         820.8679809570312
-      ],
-      [
-         "momentum_stoch_rsi_d",
-         383.7861022949219
-      ],
-      [
-         "momentum_stoch_rsi_k",
-         1275.6959228515625
-      ],
-      [
-         "momentum_stoch_signal",
-         681.822509765625
-      ],
-      [
-         "momentum_tsi",
-         3055.55322265625
-      ],
-      [
-         "momentum_uo",
-         183.5608673095703
-      ],
-      [
-         "others_cr",
-         426791.875
-      ],
-      [
-         "others_dlr",
-         85.0584945678711
-      ],
-      [
-         "others_dr",
-         510.2442932128906
-      ],
-      [
-         "ssx_600000.SS_2021-09-15_2023-09-15_Close_percent",
-         922.2651977539062
-      ],
-      [
-         "ssx_600188.SS_2021-09-15_2023-09-15_Close_percent",
-         1509.3751220703125
-      ],
-      [
-         "ssx_601088.SS_2021-09-15_2023-09-15_Close_percent",
-         728.0036010742188
-      ],
-      [
-         "ssx_601225.SS_2021-09-15_2023-09-15_Close_percent",
-         145.4240264892578
-      ],
-      [
-         "trend_adx",
-         3002.153564453125
-      ],
-      [
-         "trend_adx_neg",
-         827.2021484375
-      ],
-      [
-         "trend_adx_pos",
-         474.572998046875
-      ],
-      [
-         "trend_aroon_down",
-         1615.54833984375
-      ],
-      [
-         "trend_aroon_ind",
-         1407.554931640625
-      ],
-      [
-         "trend_aroon_up",
-         21.053550720214844
-      ],
-      [
-         "trend_cci",
-         671.77001953125
-      ],
-      [
-         "trend_dpo",
-         431.5308532714844
-      ],
-      [
-         "trend_ema_fast",
-         1945.0457763671875
-      ],
-      [
-         "trend_ema_slow",
-         571.8604125976562
-      ],
-      [
-         "trend_ichimoku_a",
-         4831.1611328125
-      ],
-      [
-         "trend_ichimoku_b",
-         4.427969455718994
-      ],
-      [
-         "trend_ichimoku_base",
-         527.0574340820312
-      ],
-      [
-         "trend_ichimoku_conv",
-         23046.953125
-      ],
-      [
-         "trend_kst",
-         1264.928466796875
-      ],
-      [
-         "trend_kst_diff",
-         1224.4793701171875
-      ],
-      [
-         "trend_kst_sig",
-         6297.767578125
-      ],
-      [
-         "trend_macd",
-         1339.475341796875
-      ],
-      [
-         "trend_macd_diff",
-         342.48748779296875
-      ],
-      [
-         "trend_macd_signal",
-         3935.90234375
-      ],
-      [
-         "trend_mass_index",
-         1787.634033203125
-      ],
-      [
-         "trend_psar_down",
-         409.01031494140625
-      ],
-      [
-         "trend_psar_down_indicator",
-         2604.269287109375
-      ],
-      [
-         "trend_psar_up",
-         823.0848999023438
-      ],
-      [
-         "trend_sma_fast",
-         51.076255798339844
-      ],
-      [
-         "trend_sma_slow",
-         1377.8973388671875
-      ],
-      [
-         "trend_stc",
-         1331.0452880859375
-      ],
-      [
-         "trend_trix",
-         560.1334838867188
-      ],
-      [
-         "trend_visual_ichimoku_a",
-         624.962646484375
-      ],
-      [
-         "trend_visual_ichimoku_b",
-         552.5060424804688
-      ],
-      [
-         "trend_vortex_ind_diff",
-         606.8646850585938
-      ],
-      [
-         "trend_vortex_ind_neg",
-         198.80728149414062
-      ],
-      [
-         "trend_vortex_ind_pos",
-         541.7615966796875
-      ],
-      [
-         "volatility_atr",
-         1005.234375
-      ],
-      [
-         "volatility_bbh",
-         368.25
-      ],
-      [
-         "volatility_bbl",
-         156.7335968017578
-      ],
-      [
-         "volatility_bbm",
-         1997.662109375
-      ],
-      [
-         "volatility_bbp",
-         67.78372955322266
-      ],
-      [
-         "volatility_bbw",
-         1783.0555419921875
-      ],
-      [
-         "volatility_dch",
-         16.432659149169922
-      ],
-      [
-         "volatility_dcl",
-         644.4232788085938
-      ],
-      [
-         "volatility_dcm",
-         1346.9619140625
-      ],
-      [
-         "volatility_dcp",
-         759.9373779296875
-      ],
-      [
-         "volatility_dcw",
-         2108.203369140625
-      ],
-      [
-         "volatility_kcc",
-         813.7418212890625
-      ],
-      [
-         "volatility_kch",
-         573.640869140625
-      ],
-      [
-         "volatility_kcl",
-         3348.7607421875
-      ],
-      [
-         "volatility_kcp",
-         2263.055419921875
-      ],
-      [
-         "volatility_kcw",
-         966.3204345703125
-      ],
-      [
-         "volatility_ui",
-         890.5383911132812
-      ],
-      [
-         "volume_adi",
-         964.876220703125
-      ],
-      [
-         "volume_cmf",
-         582.3609619140625
-      ],
-      [
-         "volume_em",
-         763.9862060546875
-      ],
-      [
-         "volume_fi",
-         817.3840942382812
-      ],
-      [
-         "volume_mfi",
-         557.7298583984375
-      ],
-      [
-         "volume_nvi",
-         1194.804931640625
-      ],
-      [
-         "volume_obv",
-         228.31771850585938
-      ],
-      [
-         "volume_sma_em",
-         941.5064697265625
-      ],
-      [
-         "volume_vpt",
-         286.52716064453125
-      ],
-      [
-         "volume_vwap",
-         1218.2000732421875
-      ]
-   ]
+   "ModelWeights": {
+      "others_cr": 426791.875,
+      "Adj Close": 177730.3125,
+      "trend_ichimoku_conv": 23046.953125,
+      "momentum_kama": 6781.05712890625,
+      "trend_kst_sig": 6297.767578125,
+      "trend_ichimoku_a": 4831.1611328125,
+      "momentum_pvo": 4156.3955078125,
+      "trend_macd_signal": 3935.90234375,
+      "volatility_kcl": 3348.7607421875,
+      "momentum_tsi": 3055.55322265625,
+      "trend_adx": 3002.153564453125,
+      "momentum_ppo_hist": 2843.70556640625,
+      "jpx_4689.T_2021-09-15_2023-09-15_Close_percent": 2795.4375,
+      "momentum_rsi": 2719.99365234375,
+      "trend_psar_down_indicator": 2604.269287109375,
+      "volatility_kcp": 2263.055419921875,
+      "volatility_dcw": 2108.203369140625,
+      "volatility_bbm": 1997.662109375,
+      "trend_ema_fast": 1945.0457763671875,
+      "trend_mass_index": 1787.634033203125,
+      "volatility_bbw": 1783.0555419921875,
+      "momentum_pvo_hist": 1716.8602294921875,
+      "trend_aroon_down": 1615.54833984375,
+      "ssx_600188.SS_2021-09-15_2023-09-15_Close_percent": 1509.3751220703125,
+      "momentum_ao": 1507.8994140625,
+      "trend_aroon_ind": 1407.554931640625,
+      "trend_sma_slow": 1377.8973388671875,
+      "volatility_dcm": 1346.9619140625,
+      "trend_macd": 1339.475341796875,
+      "trend_stc": 1331.0452880859375,
+      "momentum_stoch": 1327.6239013671875,
+      "momentum_stoch_rsi_k": 1275.6959228515625,
+      "trend_kst": 1264.928466796875,
+      "trend_kst_diff": 1224.4793701171875,
+      "volume_vwap": 1218.2000732421875,
+      "volume_nvi": 1194.804931640625,
+      "volatility_atr": 1005.234375,
+      "momentum_pvo_signal": 999.8223876953125,
+      "momentum_roc": 982.2421875,
+      "volatility_kcw": 966.3204345703125,
+      "volume_adi": 964.876220703125,
+      "volume_sma_em": 941.5064697265625,
+      "ssx_600000.SS_2021-09-15_2023-09-15_Close_percent": 922.2651977539062,
+      "volatility_ui": 890.5383911132812,
+      "trend_adx_neg": 827.2021484375,
+      "trend_psar_up": 823.0848999023438,
+      "momentum_stoch_rsi": 820.8679809570312,
+      "volume_fi": 817.3840942382812,
+      "volatility_kcc": 813.7418212890625,
+      "jpx_9984.T_2021-09-15_2023-09-15_Close_percent": 766.15087890625,
+      "volume_em": 763.9862060546875,
+      "volatility_dcp": 759.9373779296875,
+      "ssx_601088.SS_2021-09-15_2023-09-15_Close_percent": 728.0036010742188,
+      "momentum_stoch_signal": 681.822509765625,
+      "trend_cci": 671.77001953125,
+      "volatility_dcl": 644.4232788085938,
+      "trend_visual_ichimoku_a": 624.962646484375,
+      "jpx_6902.T_2021-09-15_2023-09-15_Close_percent": 615.5785522460938,
+      "trend_vortex_ind_diff": 606.8646850585938,
+      "jpx_8604.T_2021-09-15_2023-09-15_Close_percent": 606.0764770507812,
+      "jpx_6594.T_2021-09-15_2023-09-15_Close_percent": 592.063232421875,
+      "volume_cmf": 582.3609619140625,
+      "volatility_kch": 573.640869140625,
+      "trend_ema_slow": 571.8604125976562,
+      "trend_trix": 560.1334838867188,
+      "volume_mfi": 557.7298583984375,
+      "trend_visual_ichimoku_b": 552.5060424804688,
+      "trend_vortex_ind_pos": 541.7615966796875,
+      "trend_ichimoku_base": 527.0574340820312,
+      "others_dr": 510.2442932128906,
+      "trend_adx_pos": 474.572998046875,
+      "trend_dpo": 431.5308532714844,
+      "trend_psar_down": 409.01031494140625,
+      "momentum_stoch_rsi_d": 383.7861022949219,
+      "volatility_bbh": 368.25,
+      "trend_macd_diff": 342.48748779296875,
+      "DayOfWeek": 305.3984680175781,
+      "jpx_6201.T_2021-09-15_2023-09-15_Close_percent": 305.1227722167969,
+      "volume_vpt": 286.52716064453125,
+      "volume_obv": 228.31771850585938,
+      "trend_vortex_ind_neg": 198.80728149414062,
+      "momentum_uo": 183.5608673095703,
+      "volatility_bbl": 156.7335968017578,
+      "ssx_601225.SS_2021-09-15_2023-09-15_Close_percent": 145.4240264892578,
+      "others_dlr": 85.0584945678711,
+      "volatility_bbp": 67.78372955322266,
+      "trend_sma_fast": 51.076255798339844,
+      "trend_aroon_up": 21.053550720214844,
+      "volatility_dch": 16.432659149169922,
+      "momentum_ppo": 11.848554611206055,
+      "trend_ichimoku_b": 4.427969455718994,
+      "momentum_ppo_signal": 0.3644556701183319,
+      "Adj Close Percent": 0.028641078621149063
+   }
 }
