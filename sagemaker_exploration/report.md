@@ -25,3 +25,4 @@ Cons:
 - minimal number of rows 500 -> we had 460
 
 model performance report see [report.pdf](report.pdf)
+model feature importance report see [report](features_report.pdf)

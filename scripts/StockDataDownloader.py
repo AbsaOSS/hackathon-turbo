@@ -1,6 +1,15 @@
+"""
+script that downloads historical stock data from yahoofinance and saves it in csv format to datasets folder see scrapers.py
+
+usage:
+
+python StockDataDownloader.py
+python StockDataDownloader.py ABG.JO AFI.AX ...
+"""
+
 from datetime import datetime, timedelta
 
-from scrapers import JSEScraper, JPXScraper, Scraper, NyseScraper, ASXScraper, SSXScraper
+from DataScrapers import JSEScraper, JPXScraper, Scraper, NyseScraper, ASXScraper, SSXScraper
 
 # from yahoofinancials import YahooFinancials
 
