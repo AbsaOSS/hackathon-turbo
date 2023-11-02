@@ -41,3 +41,6 @@ How can we develop a stock market trading indicator based on the Artificial Inte
 * We build a several basic ML prediction models using such as Random Forest and XGBoost on the basic historic data to evaluate performance. 
 * For each JSE stock we calculated for each foreign market 10 stocks showing the highest degree of Pearson correlation in price daily movements.
 * We added 50+ technical indicators to each JSE stock derived from the price/volume history day.
+
+### Further Info:
+A video and PowerPoint presentations of the idea and results are available on request.
